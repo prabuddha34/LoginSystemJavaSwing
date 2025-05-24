@@ -1,4 +1,4 @@
-# LoginApplication
+# Login Application
 
 A simple Java Swing desktop application that collects user input such as name, age, and gender, and displays it in a message dialog. This project demonstrates the use of basic Swing components including text fields, radio buttons, and event handling.
 
